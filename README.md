@@ -1,2 +1,2 @@
 # Python_first
-Python first project
+Це мій перший Python проект на GIT
